@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Önal",
+                "last": "Babacan"
+            },
+            "location": {
+                "street": {
+                    "number": 4772,
+                    "name": "Atatürk Sk"
+                },
+                "city": "Mardin",
+                "state": "Adıyaman",
+                "country": "Turkey",
+                "postcode": 35835,
+                "coordinates": {
+                    "latitude": "68.3852",
+                    "longitude": "-64.9479"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "onal.babacan@example.com",
+            "login": {
+                "uuid": "d2470904-e6bf-4c27-9225-b9f32bad5f29",
+                "username": "blackfrog770",
+                "password": "bellaco",
+                "salt": "3xQ8YiCM",
+                "md5": "7159c08f5597732e492f5bd19951b7ea",
+                "sha1": "e72d098473531d16c9e6ae874d306544e86bc01f",
+                "sha256": "a67c167a67db65315302b4322a30be87c810ca2b40aca9c1cbf426b6919b5493"
+            },
+            "dob": {
+                "date": "1978-03-31T16:53:49.926Z",
+                "age": 45
+            },
+            "registered": {
+                "date": "2021-10-24T06:09:44.290Z",
+                "age": 2
+            },
+            "phone": "(176)-839-1665",
+            "cell": "(908)-568-2102",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/22.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+            },
+            "nat": "TR"
+        }
+    ],
+    "info": {
+        "seed": "3defc88e83382916",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
