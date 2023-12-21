@@ -1,4 +1,4 @@
-print("Hi,", "Tadeusz")
+print("Hi,", "Tadeusz ")
 # 2 x shift - podręczna wyszukiwarka
 print(type("Tadek"))  # <class 'str'> - typ znakowy - teksty
 print(39)
